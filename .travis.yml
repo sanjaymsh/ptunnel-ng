@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 language: c
 before_install:
 - sudo apt-get -qq update
